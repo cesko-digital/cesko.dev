@@ -1,0 +1,1 @@
+Tohle je náš jednoduchý URL shortener. Zkratky se nastavují v souboru vercel.json, syntaxe by měla být jasná. Ve zkratkách prosím nepoužívejte diakritiku (cesko.dev/žďár), Vercelu pak nějak nesedí to nastavení přesměrování.
