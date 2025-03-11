@@ -2,11 +2,13 @@
   "redirects": [
     {
       "source": "/",
-      "destination": "https://www.cesko.digital"
+      "destination": "https://www.cesko.digital",
+      "statusCode": 301
     },
     {
       "source": "/digitálnítransformacenezisku",
-      "destination": "https://ceskodigital.ecomailapp.cz/public/form/8-0ff8f206695a872edfb6fade7b6458ba"
+      "destination": "https://ceskodigital.ecomailapp.cz/public/form/8-0ff8f206695a872edfb6fade7b6458ba",
+      "statusCode": 301
     }
   ]
 }
