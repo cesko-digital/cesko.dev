@@ -11,6 +11,14 @@
     {
       "source": "/setkani-mpsv",
       "destination": "https://docs.google.com/presentation/d/1k-89AyQFe5MRiNFOihVHVMO3yJ8H28RzMANQGxKJoxA/edit?usp=sharing"
+    },
+    {
+      "source": "/vyzkumna-zprava",
+      "destination": "https://drive.google.com/file/d/11N0bO-pAT_tEaJ41xoQA5DBNx9VD8RA9/view"
+    },
+    {
+      "source": "/vysledky-skenu",
+      "destination": "https://sken.nezisk.digital/vysledky"
     }
   ]
 }
