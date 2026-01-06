@@ -23,6 +23,10 @@
     {
       "source": "/vysledky-skenu",
       "destination": "https://sken.nezisk.digital/vysledky"
+    },
+    {
+      "source": "/poptavka-expertni-konzultace",
+      "destination": "https://forms.fillout.com/t/aamC79TH28us"
     }
   ]
 }
