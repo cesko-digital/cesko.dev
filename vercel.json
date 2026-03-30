@@ -27,6 +27,10 @@
     {
       "source": "/poptavka-expertni-konzultace",
       "destination": "https://forms.fillout.com/t/aamC79TH28us"
+    },
+    {
+      "source": "/vysledky-fokusek-o-digitalizaci",
+      "destination": "https://docs.google.com/document/d/1LWU-7SIzw15GCqA83E0WTtvo7bDXXVmOJqBy-GqRJD4/edit?usp=sharing"
     }
   ]
 }
