@@ -35,6 +35,10 @@
     {
       "source": "/pripadovky-nezisk-digital",
       "destination": "https://inspirace.nezisk.digital"
+    },
+    {
+      "source": "/prirucka-jak-na-digitalizaci",
+      "destination": "https://nezisk.digital"
     }
   ]
 }
