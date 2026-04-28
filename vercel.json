@@ -39,6 +39,18 @@
     {
       "source": "/prirucka-jak-na-digitalizaci",
       "destination": "https://nezisk.digital"
-    }
+    },
+    {
+      "source": "/kurz-nezisk-digital",
+      "destination": "https://www.cesko.digital/projekty/nezisk-digital/online-kurz-nezisk-digital"
+    },
+    {
+      "source": "/konzultace-s-expertem",
+      "destination": "https://www.cesko.digital/projekty/nezisk-digital/digitalni-expert"
+    },
+    {
+      "source": "/jednodenni-skoleni",
+      "destination": "https://www.cesko.digital/projekty/nezisk-digital/digitalni-intenzivka"
+    }    
   ]
 }
