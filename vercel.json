@@ -51,6 +51,10 @@
     {
       "source": "/jednodenni-skoleni",
       "destination": "https://www.cesko.digital/projekty/nezisk-digital/digitalni-intenzivka"
-    }    
+    },
+    {
+      "source": "/zapojeni-do-expertni-site",
+      "destination": "https://appt.link/matej-malecha/web-conference-30"
+    }  
   ]
 }
