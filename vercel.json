@@ -59,6 +59,10 @@
     {
       "source": "/digitalizace-vpo",
       "destination": "https://ceskodigital.ecomailapp.cz/public/form/18-eeb96ecd8eefc15f2198246e728510f1"
+    },
+    {
+      "source": "/vice-casu-na-poslani",
+      "destination": "https://drive.google.com/file/d/1Q33F5o9Eb_Nfe-_gYusgAYAkWqNX7buA/view?usp=sharing"
     }
   ]
 }
