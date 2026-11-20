@@ -6,7 +6,7 @@
     },
     {
       "source": "/digitalnitransformacenezisku",
-      "destination": "https://ceskodigital.ecomailapp.cz/public/form/18-eeb96ecd8eefc15f2198246e728510f1"
+      "destination": "https://www.budemu.cz/kontakt#odber-novinek"
     },
     {
       "source": "/setkani-mpsv",
@@ -22,35 +22,35 @@
     },
     {
       "source": "/vysledky-skenu",
-      "destination": "https://sken.nezisk.digital/vysledky"
+      "destination": "https://budemu.cz/vysledky-skenu"
     },
     {
       "source": "/poptavka-expertni-konzultace",
-      "destination": "https://forms.fillout.com/t/aamC79TH28us"
+      "destination": "https://www.budemu.cz/konzultace-zdarma"
     },
     {
       "source": "/vysledky-fokusek-o-digitalizaci",
-      "destination": "https://docs.google.com/document/d/1lwu-7sizw15gcqa83e0wttvo7bdxxvmojqby-gqrjd4/edit?usp=sharing"
+      "destination": "https://www.budemu.cz/files/vysledky-fokusek-o-digitalizaci.docx"
     },
     {
       "source": "/pripadovky-nezisk-digital",
-      "destination": "https://inspirace.nezisk.digital"
+      "destination": "https://www.budemu.cz/pripadovky"
     },
     {
       "source": "/prirucka-jak-na-digitalizaci",
-      "destination": "https://drive.google.com/file/d/1VO2aNCFEtq3q9x_2Jo5wUjFx5QPMxn1M/view?usp=sharing"
+      "destination": "https://www.budemu.cz/files/cd-konec-vecneho-provizoria-rgb-6.pdf"
     },
     {
       "source": "/kurz-nezisk-digital",
-      "destination": "https://www.cesko.digital/projekty/nezisk-digital/online-kurz-nezisk-digital"
+      "destination": "https://www.budemu.cz/kurz-pro-tymy"
     },
     {
       "source": "/konzultace-s-expertem",
-      "destination": "https://www.cesko.digital/projekty/nezisk-digital/digitalni-expert"
+      "destination": "https://www.budemu.cz/konzultace-zdarma"
     },
     {
       "source": "/jednodenni-skoleni",
-      "destination": "https://www.cesko.digital/projekty/nezisk-digital/digitalni-intenzivka"
+      "destination": "https://www.budemu.cz/skoleni-pro-vedeni"
     },
     {
       "source": "/zapojeni-do-expertni-site",
@@ -58,15 +58,15 @@
     },
     {
       "source": "/digitalizace-vpo",
-      "destination": "https://ceskodigital.ecomailapp.cz/public/form/18-eeb96ecd8eefc15f2198246e728510f1"
+      "destination": "https://www.budemu.cz/kontakt#odber-novinek"
     },
     {
       "source": "/vice-casu-na-poslani",
-      "destination": "https://drive.google.com/file/d/1Q33F5o9Eb_Nfe-_gYusgAYAkWqNX7buA/view?usp=sharing"
+      "destination": "https://www.budemu.cz/files/cd-vice-casu-na-poslani-digital-1.pdf"
     },
     {
       "source": "/ukazka-skenu",
-      "destination": "https://6dezsk4dnr.zite.so/results/e40d4b9e-5c61-4b30-8999-da28fce51382"
+      "destination": "https://sken.budemu.cz/results/e40d4b9e-5c61-4b30-8999-da28fce51382"
     }
   ]
 }
